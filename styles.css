@@ -148,6 +148,7 @@ body {
 }
 
 .about__img {
+    
     text-align: center;
 }
 
@@ -283,4 +284,8 @@ body {
         grid-gap: 30px;
         padding: 35px 0px;
     }
+}
+
+#hola {
+    color: white;
 }
